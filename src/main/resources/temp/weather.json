@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": 2.8857,
+    "lat": 50.8511
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 8.27,
+    "feels_like": 4.5,
+    "temp_min": 6.86,
+    "temp_max": 10.43,
+    "pressure": 1025,
+    "humidity": 71,
+    "sea_level": 1025,
+    "grnd_level": 1023
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 7.72,
+    "deg": 293,
+    "gust": 10.11
+  },
+  "clouds": {
+    "all": 67
+  },
+  "dt": 1645791538,
+  "sys": {
+    "type": 2,
+    "id": 2005515,
+    "country": "BE",
+    "sunrise": 1645771305,
+    "sunset": 1645809702
+  },
+  "timezone": 3600,
+  "id": 2795100,
+  "name": "Ypres",
+  "cod": 200
+}
